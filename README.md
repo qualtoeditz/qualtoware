@@ -1,4 +1,4 @@
-# Advanced Toad Clicker 
+# Advanced Toad Clicker - Dm for it https://guns.lol/qualto
 > Remake of toads clicker
 
 ![Version](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)
